@@ -1,4 +1,4 @@
-# DeepLearning-PR1
+# DeepLearning-PJ1
 Reconhecimento de objetos usando YOLO
 
 Implementação de um sistema de detecção utilizando o
