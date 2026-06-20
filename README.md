@@ -1,5 +1,5 @@
 # DeepLearning-PR1
-Reconhecimento de objetos usando YOLO.
+Reconhecimento de objetos usando o algoritmo YOLO.
 
 Implementação de um sistema de detecção utilizando o
 YOLOv8n, com ênfase na substituição das funções nativas de pós-processamento por versões
