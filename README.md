@@ -1,4 +1,4 @@
-# DeepLearning-PR1
+# Deep Learning - Projeto 1
 Reconhecimento de objetos usando o algoritmo YOLO.
 
 Implementação de um sistema de detecção utilizando o
