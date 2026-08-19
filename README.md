@@ -1,5 +1,5 @@
 # Deep Learning - Projeto 1
-Reconhecimento de objetos usando o algoritmo YOLO.
+Detecção de objetos usando o algoritmo YOLOv8 em Python.
 
 Implementação de um sistema de detecção utilizando o
 YOLOv8n, com ênfase na substituição das funções nativas de pós-processamento por versões
